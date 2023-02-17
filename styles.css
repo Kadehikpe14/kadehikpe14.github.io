@@ -1,11 +1,18 @@
 h1 {
-    font-size: 30px;
+    font-size: 100px;
     color: #000000;
     text-align: center;
     font-family: "Garamond";
   }
-h2, h3, h4, p {
+h2, h3, h4, p, ul, li {
     font-family: "Garamond";
+  }
+
+  h2, h3 {
+    font-size: 50px;
+  }
+h4, p, ul, li {
+    font-size: 30px;
   }
 
   #top {
@@ -18,5 +25,4 @@ h2, h3, h4, p {
     display: inline-block;
     width: 50%;
     height: 100%;
-    background-color: red;
 }
