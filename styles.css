@@ -1,0 +1,22 @@
+h1 {
+    font-size: 30px;
+    color: #000000;
+    text-align: center;
+    font-family: "Garamond";
+  }
+h2, h3, h4, p {
+    font-family: "Garamond";
+  }
+
+  #top {
+    width: 100%;
+    height: 90px;
+    white-space: nowrap;
+    overflow-x: auto;
+}
+.top_element {
+    display: inline-block;
+    width: 50%;
+    height: 100%;
+    background-color: red;
+}
